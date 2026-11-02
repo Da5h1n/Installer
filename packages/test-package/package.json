@@ -1,0 +1,12 @@
+{
+  "name": "My Package",
+  "version": "1.2.0",
+  "description": "One-line summary for the list",
+  "details": "Longer text for the details screen",
+  "author": "Da5h1n",
+  "license": "MIT",
+  "category": "utility",
+  "path": "/programs/mypackage",
+  "main": "startup.lua",
+  "requires": ["advanced", "turtle"]
+}
